@@ -1,0 +1,28 @@
+_repo: '---_25636'
+_version: 0.1.0
+alternative_title: Fei hua yong
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tianhuazangzhuren
+    alias: 天花藏主人
+    gutenberg_agent_id: '26107'
+    url: http://www.gutenberg.org/2009/agents/26107
+description: ''
+gutenberg_issued: '2008-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25636'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Social conditions -- 960-1644 -- Fiction'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcsh 'China -- Social conditions -- 1644-1912 -- Fiction'
+- !lcc 'PL'
+title: 玉雙魚
+url: http://www.gutenberg.org/ebooks/25636
